@@ -147,14 +147,14 @@ color:#d4af37;
 
 /* IMAGE */
 .profile-img{
-width:190px;
-height:190px;
+width:360px;
+height:360px;
 object-fit:cover;
 border-radius:50%;
 display:block;
 margin:20px auto;
 border:5px solid #d4af37;
-box-shadow:0 6px 15px rgba(0,0,0,0.15);
+box-shadow:0 8px 20px rgba(0,0,0,0.15);
 }
 
 /* TEXT */
@@ -198,8 +198,8 @@ margin-bottom:15px;
 
 .home-img{
 width:100%;
-max-width:800px;
-height:350px;
+max-width:1500px;
+height:550px;
 object-fit:cover;
 display:block;
 margin:25px auto;
