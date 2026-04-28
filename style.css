@@ -251,3 +251,19 @@ transition:0.3s;
 background:white;
 transform:scale(1.05);
 } 
+
+.staff-box{
+width:220px;
+height:220px;
+object-fit:cover;
+border-radius:12px;
+display:block;
+margin:20px auto;
+border:4px solid gold;
+box-shadow:0 10px 25px rgba(0,0,0,0.18);
+transition:0.3s;
+}
+
+.staff-box:hover{
+transform:scale(1.04);
+}
